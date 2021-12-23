@@ -23,7 +23,7 @@ tiny
 insert 0.0368 ms
 append 0.0934 ms
 
-all in milliseconds
+all time is in milliseconds
 ___________________________________________
     |      insert      |      append      |
 ----|------------------|------------------|
